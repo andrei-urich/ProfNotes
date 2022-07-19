@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textUnderLoginFrame">Пожалйста, войдите для продолжения</string>
+    <string name="textUnderPasswordFrame">Или войдите без аккаунта, если не хотите пользоваться всеми возможностями</string>
+    <string name="textPasswordRecovery">Не помните свой пароль? Восстановите пароль</string>
+</resources>
